@@ -1,5 +1,5 @@
 # Courtesy
-https://christitus.com/nix-package-manager/
+echo "Courtesy: https://christitus.com/nix-package-manager"
 
 # Install Nix Pkg Manager
 curl -L https://nixos.org/nix/install | sh
